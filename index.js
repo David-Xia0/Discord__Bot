@@ -11,9 +11,9 @@ global.servers = {};
 
 
 bot.on('message', function(message){
-    if(message.content == 'nigger')
+    if(message.content == 'hello')
     {
-        message.channel.sendMessage(message.author + 'is a nigger');
+        message.channel.sendMessage('Hi' + message.author);
     }
 
 });
