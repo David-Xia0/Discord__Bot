@@ -8,7 +8,7 @@ The functionality in the bot is currently limited.
 
 The bot can:
 
-Play and queue music/videos which will be obtained from youtube.
-Flip a coin
+Play and queue music/videos which will be obtained from youtube.<br>
+Flip a coin<br>
 Roll a dice
 
